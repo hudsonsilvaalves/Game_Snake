@@ -1,0 +1,26 @@
+body {
+	height: 95vh;
+	width: 95;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: black;
+
+}
+
+h1{
+	font-family: "Arial Black", sans-serif;
+ }
+
+
+
+#nomecomposto {
+	word-spacing: 1px;
+}
+
+a{
+	text-decoration: none;
+	
+}
+
